@@ -267,7 +267,8 @@ export default {
     {
       referencia:
         'Atlassian. (2022). <em>Server to cloud: why make the move?</em>',
-      link: 'File:///D:/Usuario/Downloads/Server%20to%20Cloud%20Whitepaper.pdf',
+      link:
+        'https://www.atlassian.com/enterprise/resources/server-to-cloud-why-make-the-move',
     },
     {
       referencia:
