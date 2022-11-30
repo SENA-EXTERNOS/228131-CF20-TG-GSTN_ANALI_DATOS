@@ -2,14 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 10%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 65%
 
 @keyframes float1
   0%
@@ -17,3 +16,132 @@
 
   100%
     transform: translateY(0px)
+
+@media screen and (max-width: 767px)
+  figure > img
+    max-width: 350px
+      margin: 1rem auto;
+
+.banner-interno__fondo
+    background-position: top !important
+
+// COLORES CORTOS
+.cac
+  color: $color-acento-contenido !important
+
+.cab
+  color: $color-acento-botones !important
+
+.cp
+  color: $color-primario !important
+
+.cs
+  color: $color-secundario !important
+
+.cst
+  color: $color-sistema-texto !important
+
+.cts
+  background-color: #BDDCF6 !important
+
+.ctc1
+  background-color: rgba(77, 208, 225, .35) !important
+
+.ctc2
+  background-color: rgba(77, 208, 225, .15) !important
+
+.recuadroid
+  position: relative
+  &::before
+    content: ''
+    width: 50%
+    height: 35%
+    background-color: rgba(19, 138, 248, .1)
+    bottom: 0
+    right: 0
+    display: block
+    position: absolute
+    mix-blend-mode: multiply
+
+//TEMA 1
+.acordion__activo
+  background-color: #FFF7DE !important
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+
+.img-infografica__item__dot
+  width: 30px
+  height: 30px
+
+//TEMA 2
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  background-color: rgba(77, 208, 225, .25)
+.linea-tiempo-d__item__content__slot
+  background-color: rgba(77, 208, 225, .25)
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: rgba(77, 208, 225, .25) !important
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.tarjeta.color-primario.p-4
+  background-color: rgba(19, 138, 248, .15)
+
+.img2-7
+  background-image: url('../assets/curso/temas/tema2/img2-7.svg') !important
+  background-size: cover
+
+//TEMA 3
+.tarjeta--azul
+  background-color: rgba(189, 220, 246, .15)
+
+.slyder-a__bullets__item--active
+  background-color: $color-secundario !important
+  border-color: $color-secundario
+
+.slyder-a__bullets__item
+  background-color: rgba(15, 39, 113, .35)
+
+.recuadroid3
+  position: relative
+  &::before
+    content: ''
+    width: 35%
+    height: 25%
+    background-color: rgba(77, 208, 225, .15)
+    top: 20%
+    bottom: 0
+    right: 0
+    display: block
+    position: absolute
+    mix-blend-mode: multiply
+
+.tarjeta--curuba
+  background-color: #FFF7DE
+
+.bloque-texto-1
+  background-color: #F3F9FF
+  &:before
+    background-color: #BDDCF6
+
+.bloque-texto-izq
+  .bloque-texto-a:before
+    left: 0  !important
+    right: 50% !important
+
+.bloque-texto-a__texto
+  width: 110%
+
+//TEMA 4
+.img4-5
+  &::before
+    background-image: url('../assets/curso/temas/tema4/img4-5.png')
+    background-size: cover
+    background-position: center center
+
+.bloque-texto-a.color-primario.p-4.p-md-5.mb-5.img4-5
+  background-color: #BDDCF6
+
+.tarjeta--ltc
+  background-color: rgba(254, 202, 46, .06)

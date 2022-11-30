@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Entrega de la solución informática**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/228131-CF20-TG-GSTN_ANALI_DATOS](https://sena-externos.github.io/228131-CF20-TG-GSTN_ANALI_DATOS)
 
 #
 

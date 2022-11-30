@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820.5" height="465.491" viewBox="0 0 820.5 465.491">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.588" x2="0" y2="0.586" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f2771"/>
+      <stop offset="1" stop-color="#081439"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.431" x2="0" y2="0.427" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4dd0e1"/>
+      <stop offset="1" stop-color="#276871"/>
+    </linearGradient>
+    <filter id="Trazado_196465" x="34.75" y="39.5" width="280.508" height="280.508" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_5152" x="271.25" y="145.5" width="280.508" height="280.508" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_5153" x="506.25" y="39.5" width="280.508" height="280.508" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_44498" data-name="Rectángulo 44498" width="820.5" height="465.491" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_44495" data-name="Rectángulo 44495" width="370.828" height="348.533" transform="translate(0.5 0.5)" fill="#bddcf6"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="1" y1="0.514" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bddcf6"/>
+      <stop offset="1" stop-color="#5f6e7b"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_44496" data-name="Rectángulo 44496" width="348.557" height="295.487" transform="translate(471.943 0.5)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_44497" data-name="Rectángulo 44497" width="370.828" height="296.702" transform="translate(237.135 168.789)" fill="url(#linear-gradient-2)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_143173" data-name="Grupo 143173" transform="translate(-389.75 -2717)">
+    <g transform="matrix(1, 0, 0, 1, 389.75, 2717)" filter="url(#Trazado_196465)">
+      <path id="Trazado_196465-2" data-name="Trazado 196465" d="M299.539,174.784A124.754,124.754,0,1,1,174.785,50.03,124.754,124.754,0,0,1,299.539,174.784" transform="translate(0.22 -0.03)" fill="#fff" stroke="#4dd0e1" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 389.75, 2717)" filter="url(#Elipse_5152)">
+      <circle id="Elipse_5152-2" data-name="Elipse 5152" cx="124.754" cy="124.754" r="124.754" transform="translate(286.75 166)" fill="#fff" stroke="#4dd0e1" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 389.75, 2717)" filter="url(#Elipse_5153)">
+      <circle id="Elipse_5153-2" data-name="Elipse 5153" cx="124.754" cy="124.754" r="124.754" transform="translate(521.75 50)" fill="#fff" stroke="#4dd0e1" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <text id="Etapa_inicial" data-name="Etapa
+inicial" transform="translate(561 2862)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-30.328" y="25">Etapa</tspan><tspan x="-32.566" y="55">inicial</tspan></text>
+    <text id="Etapa_intermedia" data-name="Etapa
+intermedia" transform="translate(793 2979)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-30.328" y="25">Etapa</tspan><tspan x="-58.553" y="55">intermedia</tspan></text>
+    <text id="Etapa_final" data-name="Etapa
+final" transform="translate(1034 2862)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-30.328" y="25">Etapa</tspan><tspan x="-24.064" y="55">final</tspan></text>
+    <g id="Grupo_142171" data-name="Grupo 142171" transform="translate(389.75 2717)" clip-path="url(#clip-path)">
+      <g id="Grupo_142164" data-name="Grupo 142164" style="isolation: isolate">
+        <g id="Grupo_142163" data-name="Grupo 142163">
+          <g id="Grupo_142162" data-name="Grupo 142162" clip-path="url(#clip-path-2)">
+            <path id="Trazado_196469" data-name="Trazado 196469" d="M345.381,139.008A174.294,174.294,0,1,0,171.942,349.033V308.7A133.946,133.946,0,1,1,303.887,139.008H282.06l44.634,44.634,44.634-44.634Z" fill="url(#linear-gradient-3)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_142167" data-name="Grupo 142167" style="isolation: isolate">
+        <g id="Grupo_142166" data-name="Grupo 142166">
+          <g id="Grupo_142165" data-name="Grupo 142165" clip-path="url(#clip-path-3)">
+            <path id="Trazado_196470" data-name="Trazado 196470" d="M792.149,270.116A174.294,174.294,0,1,0,521,295.986l28.522-28.521a133.946,133.946,0,1,1,213.287-26.69l-15.434-15.434v63.122H810.5Z" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_142170" data-name="Grupo 142170" style="isolation: isolate">
+        <g id="Grupo_142169" data-name="Grupo 142169">
+          <g id="Grupo_142168" data-name="Grupo 142168" clip-path="url(#clip-path-4)">
+            <path id="Trazado_196471" data-name="Trazado 196471" d="M563.329,282.349,518.7,326.983h21.827A133.957,133.957,0,1,1,315.9,197.31l-28.52-28.521A174.288,174.288,0,1,0,582.016,326.983h25.947Z" fill="url(#linear-gradient-2)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
