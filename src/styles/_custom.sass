@@ -9,6 +9,11 @@
     position: absolute
     top: 20%
     right: 65%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 81%
+    right: 24%
 
 @keyframes float1
   0%
@@ -16,6 +21,25 @@
 
   100%
     transform: translateY(0px)
+
+.animation-rotation
+  &-1
+    animation: rotate 10s linear infinite
+    position: absolute
+    top: 31%
+    right: 13%
+  &-2
+    animation: rotate 5s linear infinite reverse
+    position: absolute
+    top: 74%
+    right: 15%
+
+@keyframes rotate
+  0%
+    transform: rotate(0deg)
+    
+  100%
+    transform: rotate(360deg)
 
 @media screen and (max-width: 767px)
   figure > img
@@ -64,16 +88,19 @@
     mix-blend-mode: multiply
 
 //TEMA 1
+.tarjeta--azul1
+  background-color: $color-primario
+
 .acordion__activo
   background-color: #FFF7DE !important
 
 .acordion__accion__btn--a
   background-color: $color-acento-botones
 
-.img-infografica__item__dot
-  width: 30px
-  height: 30px
-
+.img-infografica__item
+    opacity: 1 !important
+    transform: scale(1.4)
+    
 //TEMA 2
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
   background-color: rgba(77, 208, 225, .25)

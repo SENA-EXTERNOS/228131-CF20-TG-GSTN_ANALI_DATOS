@@ -12,9 +12,9 @@
     .row.justify-content-center.mb-5
       .col-lg-5.mb-sm-4(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema1/img1-1.svg', alt='Ciclo de vida de proyectos')
+          img(src='@/assets/curso/temas/tema1/img1-1.png', alt='Ciclo de vida de proyectos')
       .col-lg-7(data-aos="zoom-in")
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
           .row(titulo="Etapa inicial")
             ol
               li.mb-3 
@@ -66,7 +66,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Evaluación y vigilancia
+              h4 Evaluación y vigilancia
               p Se refiere al seguimiento permanente entre las funcionalidades de la solución planteada y las necesidades de la organización y los clientes.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-2.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -74,7 +74,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Calidad de la solución
+              h4 Calidad de la solución
               p Es posible que se deban realizar correcciones para mejorar la calidad de la solución desplegada, así como el reentrenamiento de los implicados en el uso de estas soluciones al presentarse casos particulares.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-3.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -82,7 +82,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Revisiones constantes
+              h4 Revisiones constantes
               p Es importante, que los dueños de las soluciones tecnológicas, ya sean opciones comerciales 
                 em Saas 
                 |si es 
@@ -94,7 +94,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Adaptación al cambio
+              h4 Adaptación al cambio
               p Los proyectos deben estar diseñados para que se adapten con relativa facilidad a los cambios.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-5.png')})`}")
 
@@ -111,15 +111,15 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/img1-6.svg', alt='Ciclo de vida de proyectos')
-          .tarjeta.color-acento-botones.p-3(x="0%" y="38%" numero="1")
+          .tarjeta.color-acento-botones.p-3(x="-1%" y="36%" numero="1")
             p.mb-1 Necesidades de la organización
             p.mb-1 Definición de requisitos
             p.mb-1 Metodología
             p Propuesta y criterios de aceptación
-          .tarjeta.color-acento-botones.p-3(x="50%" y="100%" numero="2")
+          .tarjeta.color-acento-botones.p-3(x="49%" y="98%" numero="2")
             p.mb-1 Análisis y desarrollo
             p Aceptación de entregas parciales
-          .tarjeta.color-acento-botones.p-3(x="79%" y="0%" numero="3")
+          .tarjeta.color-acento-botones.p-3(x="78%" y="-2%" numero="3")
             p.mb-1 Cierre del proyecto
             p.mb-1 Protección del producto (registros y derechos)
             p Evaluación y vigilancia

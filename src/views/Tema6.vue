@@ -191,29 +191,29 @@
       br
       em Factores que afectan la capacitación
 
-    .tabla-b.color-acento-contenido.mb-5(data-aos="zoom-in")
-      .tabla-b__header
-        .row.justify-content-start
-          .col-lg-4
-            h4.mb-0 Factor
-          .col-lg-4
-            h4.mb-0 Implicación
-          .col-lg-4
-            h4.mb-0 Recomendación
-      table
-        tr
-          th Demoras en la implementación
+    table.mb-5(data-aos="zoom-in")
+      thead(style="background-color: #4DD0E1")
+        tr.text-center(style="vertical-align: middle")
+          th  
+            h3 Factor
+          th 
+            h3 Implicación
+          th 
+            h3 Recomendación
+      tbody
+        tr(style="background-color: #F6F6F6")
+          th.text-center Demoras en la implementación
           td La puesta en marcha de los sistemas, por lo general requieren parametrización y carga inicial de datos, por lo que es necesario tener un alistamiento mínimo para el desarrollo de la capacitación. No sería provechosa una capacitación sin datos qué gestionar.#[br]#[br]
             p Ocasionalmente, los plazos calculados pueden ser menores a los que realmente se requieren para la apropiación de la nueva herramienta.
           td Antes de la fase de transferencia, asegurarse de tener parametrizado los sistemas de información, y tener cargados datos para poder realizar los ejemplos y demostraciones. Ocasionalmente las capacitaciones podrían hacerse en el ambiente de desarrollo.#[br]#[br]
             p Preparar ayudas visuales tales como diapositivas para explicar conceptos, reglas y pueda proyectar mejor el entendimiento del sistema.#[br]
             p Planificar los contenidos de la formación, estimar y asignar tema por tema un tiempo determinado. También es responsabilidad del orientador hacer cumplir los horarios.
         tr
-          th Falencias del talento humano
+          th.text-center Falencias del talento humano
           td Con frecuencia, las empresas clientes o usuarias de la solución informática, no realizan una selección teniendo en cuenta las habilidades del personal que manejará el nuevo sistema, así se llevará mucho tiempo en la capacitación, no se enfoca solo a la transferencia de conocimientos de las nuevas funcionalidades, sino también a desarrollar habilidades básicas digitales.
           td Recomendar a la empresa cliente o usuaria del sistema, que seleccione personal con habilidades digitales básicas, esto facilita que el enfoque de la transferencia sea más eficiente.
-        tr
-          th Ausencia de la Dirección
+        tr(style="background-color: #F6F6F6")
+          th.text-center Ausencia de la Dirección
           td Una característica que se nota en numerosos casos, es la falta de presencia de los líderes de la organización. Es importante que se transmita respaldo y compromiso de las empresas que usarán la nueva solución.
           td Comprometer a los directivos y líderes de la organización para que hagan presencia en la formación, al menos en un momento corto de la transferencia mostrando compromiso y motivando a sus colaboradores para que se implemente con éxito el proyecto.
 

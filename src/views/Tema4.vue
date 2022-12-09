@@ -16,7 +16,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="zoom-in")
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--curuba")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
           .row.justify-content-center(titulo="Paso 1")
             .col-md-11.mb-4.mb-md-0
               p También denominada metodología 
@@ -39,6 +39,8 @@
       .col-lg-4.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img4-2.svg', alt='Modelo en cascada')
+
+    p.mb-5 En la siguiente imagen se describe cada una de las fases que se aplican en la metodología en cascada.
 
     .row.justify-content-center.mb-5
       .col-lg-10.col-sm-12(data-aos="zoom-in")

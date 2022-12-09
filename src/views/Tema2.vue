@@ -33,7 +33,9 @@
           p.text-small(numero="1" titulo="Reuniones con clientes") A diferencia de las metodologías tradicionales, se prefiere realizar la toma de requisitos de manera tradicional; a través de las reuniones con clientes, expresar en qué consiste el requisito, sin que haya detalles minuciosos y luego estimar el requisito, priorizarlo y plasmarlo en historias de usuario.
           p.text-small(numero="2" titulo="Requisitos") Las metodologías tradicionales proponen fijar los requisitos con un alto nivel de detalle al inicio del proyecto y, a partir de estos se hace una estimación de los costos y la fecha de entrega.
           p.text-small(numero="3" titulo="Necesidades") Esto podría implicar fácilmente inconvenientes, pues con frecuencia los clientes no tienen claridad sobre sus necesidades y en las metodologías tradicionales; un cambio a mitad del proyecto podría derivar en problemas y trabas que implican costos, ya sea de resultados finales o incrementos presupuestales.
-          p.text-small(numero="4" titulo="Presupuesto") Las metodologías ágiles, como el Scrum y otras, proponen partir de un presupuesto y unas fechas de entrega y, a partir de allí, se trabaja para implementar la funcionalidad más valiosa para el cliente en cada momento. Trabajando de esta manera, el alcance será flexible.
+          p.text-small(numero="4" titulo="Presupuesto") Las metodologías ágiles, como el 
+            em Scrum 
+            |y otras, proponen partir de un presupuesto y unas fechas de entrega y, a partir de allí, se trabaja para implementar la funcionalidad más valiosa para el cliente en cada momento. Trabajando de esta manera, el alcance será flexible.
 
     p.mb-5 En la siguiente infografía se puede observar una comparación entre paradigmas para el desarrollo de sistemas de informáticos tradicionales y metodologías ágiles.
 

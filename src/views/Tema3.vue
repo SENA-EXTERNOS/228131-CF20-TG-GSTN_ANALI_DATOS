@@ -19,7 +19,7 @@
           em software 
           |existen unos roles y tareas específicas. Entre otras, las responsabilidades más comunes en el desarrollo son:
 
-        .cajon.color-acento-contenido.p-4.mb-4
+        .cajon.color-acento-contenido.p-4.mb-4(style="background-color: rgba(77, 208, 225, .15)")
           p.mb-0 Diseño y diagramación, mejorar flujos de trabajo y procesos, desarrollar códigos, documentar código, gestionar archivos, dar soporte técnico, gestionar seguridad, hacer pruebas y control, hacer seguimiento de productividad, planificar y coordinar proyectos, entre otros.
 
     Separador
@@ -195,7 +195,7 @@
           img(src="@/assets/curso/temas/tema3/img3-11.svg" alt="Interfaz de Trello").mb-2
           figcaption Nota. La figura representa la interfaz de Trello. Adaptada de Trello ayuda a los equipos a sacar el trabajo adelante, (Trello, 2022).
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--curuba")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
       .row(titulo="Tablero de <em>Trello</em>")
         .col-md-7.mb-4.mb-md-0
           p 
