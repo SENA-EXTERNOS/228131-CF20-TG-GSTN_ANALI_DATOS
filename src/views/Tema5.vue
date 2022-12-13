@@ -120,22 +120,23 @@
             em SLA 
             |y este debe ser gestionado entre proveedor de desarrollo y el negocio, el cual puede ser pactado o no.
 
-    .col-lg-10.mx-auto(data-aos="flip-up")
-      .tarjeta.color-primario.img2-4.p-4.mb-5
-        .row.justify-content-center.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/temas/tema5/img5-8.svg" alt="Lupa")
-          .col-auto
-            .row.justify-content-between.align-items-center
-              .col-auto.mb-3.mb-sm-0
-                h4.mb-1 Acuerdos de nivel de servicio (
-                  em SLA
-                  |)
-                p.text-small Para profundizar sobre este tema se sugiere acceder al enlace Web.
-              .col.mb-3.mb-sm-0
-                a.boton.color-acento-botones(href="https://www.ibm.com/docs/es/mfsp/7.6.1?topic=records-service-level-agreements-slas" target="_blank" type="application/url")
-                  span(style='color:#12263F !important') Enlace web
-                  i.fas.fa-link(style='color:#12263F !important')
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="flip-up")
+        .tarjeta.cft2.p-4
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema5/img5-8.svg" alt="Lupa")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h5.mb-1 Acuerdos de nivel de servicio (
+                    em SLA
+                    |)
+                  p.text-small Para profundizar sobre este tema se sugiere acceder al enlace Web.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.ibm.com/docs/es/mfsp/7.6.1?topic=records-service-level-agreements-slas" target="_blank" type="application/url")
+                    span Enlace web
+                    i.fas.fa-link
 
 </template>
 

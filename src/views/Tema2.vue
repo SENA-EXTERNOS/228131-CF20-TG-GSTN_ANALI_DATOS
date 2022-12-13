@@ -120,22 +120,23 @@
         figure
           img(src='@/assets/curso/temas/tema2/img2-6.png', alt='Reunión de trabajo')
 
-    .col-lg-10.mx-auto
-      .tarjeta.color-primario.img2-4.p-4.mb-5
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/temas/tema2/img2-8.svg" alt="Libro con rueda dentada")
-          .col-auto
-            .row.justify-content-between.align-items-center
-              .col-auto.mb-3.mb-sm-0
-                p.text-small Para profundizar más en este tema, se invita a revisar el siguiente documento: Métodos ágiles: 
-                  em Scrum, Kanban, Lean. Laza
-                  |, C., et al.  2017).
-              .col.mb-3.mb-sm-0
-                a.boton.color-acento-botones(href="https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122933" target="_blank" type="application/url")
-                  span(style='color:#12263F !important') Enlace web
-                  i.fas.fa-link(style='color:#12263F !important')
-
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="flip-up")
+        .tarjeta.cft2.p-4
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema2/img2-8.svg" alt="Libro con rueda dentada")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.text-small Para profundizar más en este tema, se invita a revisar el siguiente documento: Métodos ágiles: 
+                    em Scrum, Kanban, Lean. Laza
+                    |, C., et al.  2017).
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122933" target="_blank" type="application/url")
+                    span Enlace web
+                    i.fas.fa-link
+   
 </template>
 
 <script>
