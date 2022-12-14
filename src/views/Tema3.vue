@@ -137,30 +137,34 @@
             figure
               img(src="@/assets/curso/temas/tema3/img3-9.png" alt="Computador portátil")
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2.col-sm-2(data-aos="fade-right")
-        figure
-          img(src="@/assets/curso/temas/tema3/img3-10.svg" alt="Lupa")
-      .col-lg-7.col-sm-10(data-aos="fade-left")
-        p Para profundizar más en este tema, se invita a visitar el siguiente enlace Web.
-        a.anexo.mb-4.mb-lg-0(href="https://www.atlassian.com/es/software/jira" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p
-              b Enlace web. 
-              em Jira software.
-        p Y ver el video:
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=ViwOKhYx4kg" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p
-              b Enlace web. 
-              |Como usar 
-              em JIRA 
-              |desde 0 en equipos 
-              em SCRUM.
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta(style="border: 3px solid #F6F6F6").p-5
+          .row.justify-content-center.align-items-center
+            .col-lg-3.mb-sm-4(data-aos="fade-right")
+              figure
+                img(src="@/assets/curso/temas/tema3/img3-10.svg" alt="Lupa")
+            .col-lg-8(data-aos="fade-left")
+              p Para profundizar más en este tema, se invita a visitar el siguiente enlace Web.
+              a.anexo.mb-4.mb-lg-0(href="https://www.atlassian.com/es/software/jira" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-link.svg")
+                .anexo__texto
+                  p
+                    b Enlace web. 
+                    em Jira software.
+              br      
+              p Y ver el video:
+              a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=ViwOKhYx4kg" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-link.svg")
+                .anexo__texto
+                  p
+                    b Enlace web. 
+                    |Como usar 
+                    em JIRA 
+                    |desde 0 en equipos 
+                    em SCRUM.
               
     p(data-aos="fade-down").mb-5 Para una mejor comprensión del uso de herramientas para la gestión de proyectos de 
       em software
