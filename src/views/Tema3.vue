@@ -19,7 +19,7 @@
           em software 
           |existen unos roles y tareas específicas. Entre otras, las responsabilidades más comunes en el desarrollo son:
 
-        .cajon.color-acento-contenido.p-4.mb-4(style="background-color: rgba(77, 208, 225, .15)")
+        .cajon.color-acento-contenido.p-4(style="background-color: rgba(77, 208, 225, .15)")(data-aos="flip-up")
           p.mb-0 Diseño y diagramación, mejorar flujos de trabajo y procesos, desarrollar códigos, documentar código, gestionar archivos, dar soporte técnico, gestionar seguridad, hacer pruebas y control, hacer seguimiento de productividad, planificar y coordinar proyectos, entre otros.
 
     Separador
@@ -141,7 +141,7 @@
       .col-lg-10
         .tarjeta(style="border: 3px solid #F6F6F6").p-5
           .row.justify-content-center.align-items-center
-            .col-lg-3.mb-sm-4(data-aos="fade-right")
+            .col-lg-3.col-sm-4.mb-sm-4(data-aos="fade-right")
               figure
                 img(src="@/assets/curso/temas/tema3/img3-10.svg" alt="Lupa")
             .col-lg-8(data-aos="fade-left")
@@ -190,7 +190,7 @@
           p.mb-0 Al igual que 
             em Jira, Trello 
             |es un programa destinado a la gestión y seguimiento de proyectos y equipos de trabajo. Basado en tarjetas. Es un programa con facilidad de trabajo. Cuando se inicia la aplicación, se solicita un espacio de trabajo donde se albergan todos los proyectos a gestionar.
-      .col-lg-4.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
+      .col-lg-4.col-sm-10.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 7.
           br
@@ -208,7 +208,7 @@
             em Board 
             |o tarjetas. Es una herramienta sencilla, pero con gran capacidad para la gestión de tareas y coordinación de equipos de trabajo.
           p Por defecto, cuenta con las tres columnas: “por hacer”, “en proceso” y “hecho” o finalizado, pero tiene la posibilidad de agregar más columnas según la dinámica y necesidades.
-        .col-md-5
+        .col-md-5.col-sm-10
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 8.
             br

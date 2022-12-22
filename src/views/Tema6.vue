@@ -19,25 +19,25 @@
         .row
           .col-md-6.mb-4.mb-md-0
             p Esto es un error, que puede afectar de manera importante el proyecto y su éxito en el tiempo; ocasionalmente todo se hace bien, menos la socialización, comunicación y presentación del proyecto.
-          .col-md-6
+          .col-md-6.order-sm-first.order-lg-last.mb-sm-4
             figure
               img(src="@/assets/curso/temas/tema6/img6-2.png" alt="Plan A y B")
         .row
           .col-md-6.mb-4.mb-md-0
             p El perfil profesional se enfoca en lo técnico, es importante tener competencias sociales y habilidades blandas para tener la capacidad de comunicar de manera acertada, clara, adecuada y agradable los objetivos, el marco del proyecto, funcionalidad y los componentes más relevantes de la solución que se despliega y entra a producción.
-          .col-md-6
+          .col-md-6.order-sm-first.order-lg-last.mb-sm-4
             figure
               img(src="@/assets/curso/temas/tema6/img6-3.png" alt="Reunión de trabajo")
         .row
           .col-md-6.mb-4.mb-md-0
             p Si bien, muchos desarrollos tecnológicos en las organizaciones son decisiones del nivel gerencial y se implementan como directrices del negocio, es importante llegar a todos los miembros de la organización, no solo aquellos que están involucrados directamente.
-          .col-md-6
+          .col-md-6.order-sm-first.order-lg-last.mb-sm-4
             figure
               img(src="@/assets/curso/temas/tema6/img6-4.png" alt="Reunión de trabajo")
         .row
           .col-md-6.mb-4.mb-md-0
             p Por lo general, dependiendo de la naturaleza y políticas del proyecto, éstos deben comunicarse y de ser necesario, preparar una presentación al área o personas involucradas y líderes de la organización, esto da empoderamiento y el nivel gerencial, con seguridad, lo tomará como un logro generando motivación y satisfacción del trabajo realizado.
-          .col-md-6
+          .col-md-6.order-sm-first.order-lg-last.mb-sm-4
             figure
               img(src="@/assets/curso/temas/tema6/img6-5.png" alt="Reunión de trabajo")
 
@@ -54,7 +54,7 @@
           .col-md-8.mb-4.mb-md-0
             ol
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Establecer el objetivo principal de la presentación, que pueden ser:
                 .row.justify-content-center
                   .col-lg-11
@@ -72,16 +72,16 @@
                         i.fas.fa-square.cab.me-3
                         |Realizar demostraciones en vivo para que haya más claridad en la funcionalidad. Etc.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Conocer la audiencia o público es importante, si bien, pueden estar personas con conocimientos técnicos, mejor orientarse a un público genérico.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Ponerse en los zapatos de la audiencia permite que, se piense cómo público crítico y lo qué se esperaría de una presentación de esta naturaleza y de qué modo se podría hacer más amigable la charla.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Ubicar y priorizar los puntos claves o críticos de interés que le darán valor al negocio; los menos importantes se deben dejar para lo último, si se hace larga o pesada la presentación, es posible que se pierda interés.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Preparar ayudas visuales. Las diapositivas deben estar bien elaboradas, con el marco visual de la organización. Estos soportes visuales ayudan a explicar con gráficos y dibujos los conceptos que se pretenden lleguen con claridad al público.
           .col-md-4.order-sm-first.order-lg-last.mb-sm-4
             figure
@@ -91,24 +91,24 @@
           .col-md-8.mb-4.mb-md-0
             ol
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |La mirada produce confianza, es importante mantener un contacto visual y cordial con el público. Es más fácil persuadir cuando se intercambian miradas (aplica incluso si la presentación es a través de medios virtuales).
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Romper el hielo; cuando se inicia una presentación en un ambiente poco familiar, donde no se conoce la audiencia, es importante usar alguna técnica que mejore, desde el inicio, la relación entre conferencista y asistentes; se puede iniciar con anécdotas a modo de historia entretenida o preguntas en contexto (sin forzar a nadie a responder).
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |No exceder en el número de diapositivas ni en explicaciones detalladas. No superar tampoco en el tiempo de exposición.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |No emplear tecnicismos o palabras rebuscadas para impresionar, 
                 em “en la sencillez está la virtud”
                 |.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Evitar leer. Cuando se habla desde la memoria y la apropiación del conocimiento, se tendrá un mayor impacto a la audiencia.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Procurar interactuar con el público, motivando siempre a su participación, valorar opiniones y aportes.
           .col-md-4.order-sm-first.order-lg-last.mb-sm-4
             figure
@@ -118,21 +118,21 @@
           .col-md-8.mb-4.mb-md-0
             ol
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Dejar espacios para preguntas y solución de dudas. Es necesario moderar esta participación, en caso de que sean muchas, gestionar por otro medio para dar respuesta, como por ejemplo a través de correo u otro medio.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Dejar fuentes para ampliar la información dada, ya sea un 
                 em link
                 |, manual, volantes, etc.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Si es posible y pertinente, emplear una herramienta que permita realizar encuestas rápidas, en línea se pueden emplear varias donde la misma audiencia responde a través de su celular.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Si es virtual, divulgar la grabación de la presentación, al igual que si es presencial, procurar grabar para la divulgación.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Si se considera pertinente, compartir por correo electrónico una versión en PDF de las diapositivas usadas en la presentación.
           .col-md-4.order-sm-first.order-lg-last.mb-sm-4
             figure

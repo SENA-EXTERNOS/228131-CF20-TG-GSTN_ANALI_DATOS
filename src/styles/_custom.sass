@@ -102,10 +102,13 @@
     transform: scale(1.4)
     
 //TEMA 2
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
-  background-color: rgba(77, 208, 225, .25)
+.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content__title
+    background-color: rgba(77, 208, 225, .25)
+    border-radius: 5px 5px 0 0
 .linea-tiempo-d__item__content__slot
   background-color: rgba(77, 208, 225, .25)
+  border-radius: 0 0 5px 5px
 .linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   background-color: rgba(77, 208, 225, .25) !important
 
@@ -175,3 +178,7 @@
 
 .tarjeta--ltc
   background-color: rgba(254, 202, 46, .06)
+
+//TEMA 6  
+.col-sm-6.col-lg-4.col-xl.tabs-c__tab.py-3.tabs-c__tab--active
+  font-weight: bold

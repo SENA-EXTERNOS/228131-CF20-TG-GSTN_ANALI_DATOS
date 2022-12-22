@@ -43,7 +43,7 @@
     p.mb-5 En la siguiente imagen se describe cada una de las fases que se aplican en la metodología en cascada.
 
     .row.justify-content-center.mb-5
-      .col-lg-10.col-sm-12(data-aos="zoom-in")
+      .col-lg-10.col-sm-10(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 10.
           br
@@ -174,10 +174,10 @@
               img(src='@/assets/curso/temas/tema4/img4-12.svg', alt='Director de proyecto')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-sm-4(data-aos="fade-right")
+      .col-lg-3.col-sm-2(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img4-13.svg', alt='Método de cascada')
-      .col-lg-7.recuadroid(data-aos="fade-left")
+      .col-lg-7.col-sm-10.recuadroid(data-aos="fade-left")
         h4 Aplicar el método de cascada
         p Los directores de proyecto suelen recurrir al método de cascada cuando hay una visión clara de lo que debería ser el producto final. Cuando los requisitos o necesidades están claramente identificadas y es relativamente fácil y claro documentarlas. Cuando se encuentren con requerimientos ambiguos, deben resolverse y aclararse de manera coherente.
         p.mb-1
@@ -186,11 +186,11 @@
     .row.justify-content-center
       .col-lg-10(data-aos="zoom-in")
         .bloque-texto-izq.mb-5
-          .bloque-texto-a.bloque-texto-1.p-4
+          .bloque-texto-a.bloque-texto-1.p-3
             .row.m-0.align-items-center.justify-content-between
               .col-lg-6
                 .bloque-texto-a__texto.p-4
-                  p Esta metodología, si bien es cierto que hasta inicios del Siglo XXI (año 2000), fue de las más usadas en proyectos de tecnología; incluso cuando en el 2001 surgió el manifiesto de las metodologías ágiles, ésta se alineó con este concepto, pronto fue entrando en desuso, pues otras metodologías más flexibles y rápidas en su desarrollo fueron tomando lugar y hoy se posesionan como las dominantes.
+                  p.mb-0 Esta metodología, si bien es cierto que hasta inicios del Siglo XXI (año 2000), fue de las más usadas en proyectos de tecnología; incluso cuando en el 2001 surgió el manifiesto de las metodologías ágiles, ésta se alineó con este concepto, pronto fue entrando en desuso, pues otras metodologías más flexibles y rápidas en su desarrollo fueron tomando lugar y hoy se posesionan como las dominantes.
               .col-lg-6.mb-4.mb-lg-3.p-4.order-sm-first.order-lg-last
                 img(src='@/assets/curso/temas/tema4/img4-14.svg', alt='Pruebas')
 

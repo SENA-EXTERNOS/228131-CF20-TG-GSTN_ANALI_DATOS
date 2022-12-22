@@ -40,7 +40,7 @@
     p.mb-5 En la siguiente infografía se puede observar una comparación entre paradigmas para el desarrollo de sistemas de informáticos tradicionales y metodologías ágiles.
 
     .row.justify-content-center.mb-5
-      .col-lg-10.col-sm-12
+      .col-lg-10.col-sm-10
         .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
           h5 Figura 2.
           br
@@ -63,7 +63,7 @@
         p.mb-0 Es la parte en que el cliente evalúa y se establece si el desarrollo de la parte del proyecto es o no aceptada, proponer de manear correcta estos criterios evita controversias en los proyectos y se dejan claros los alcances y funcionalidades.
 
     .row.justify-content-center.mb-5
-      .col-lg-10.col-sm-12
+      .col-lg-10.col-sm-10
         .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
           h5 Figura 3.
           br
@@ -79,37 +79,37 @@
             h4 Características principales de los criterios de aceptación
             ol
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Se deben redactar con frases concretas y que concluyan las historias de usuario.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Enriquece la historia y hace posible las pruebas.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Los resultados de las pruebas solo deben tener dos estados: correcto o incorrecto.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |Se debe asegurar el entendimiento por parte de todo el equipo para que exista unanimidad en la consideración de si es o no aceptada y finalizada.
           .tarjeta.color-primario.p-4(titulo="Tipos de criterio")
             h4 Tipos de criterio de aceptación
             ol
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |
                 b Condiciones: 
                 |cómo se reacciona frente a las opciones de comportamiento y ante situaciones que no se cumplen.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |
                 b Funcionales: 
                 |lo que se espera ver o que se haga.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |
                 b No funcional: 
                 |accesibilidad, seguridad, performance, soporte, etc.
               li.mb-3 
-                i.fas.fa-circle.cst.me-3
+                i.fas.fa-circle.fa-xs.cst.me-3
                 |
                 b Usabilidad: 
                 |facilidad de uso, eficiencia, navegabilidad, errores, experiencia de usuario.

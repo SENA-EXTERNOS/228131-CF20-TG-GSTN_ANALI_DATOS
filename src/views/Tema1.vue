@@ -18,42 +18,42 @@
           .row(titulo="Etapa inicial")
             ol
               li.mb-3 
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Identificación de necesidades y requisitos.
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Diagnóstico de las capacidades técnicas, administrativas y recursos tecnológicos y financieros de la organización.
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Definición de las especificaciones y requisitos que incluye el proyecto.
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Definición de metodología de trabajo y desarrollo.
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Planteamiento de propuestas y criterios de aceptación.
           div(titulo="Etapa intermedia")
             ol
               li.mb-3 
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Desarrollo análisis y desarrollo de soluciones analítica.
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Aceptación y entregas parciales de avances del proyecto.
 
           div(titulo="Etapa final")
             ol
               li.mb-3 
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Cierre del proyecto.
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Acuerdos finales, presentación, transferencia, formación, etc.
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |Propiedad intelectual (en caso de que el producto requiera registros y protección de derechos de autor).
               li.mb-3
-                i.fas.fa-circle.cac.me-3
+                i.fas.fa-circle.fa-xs.cac.me-3
                 |
                 b Evaluación y vigilancia: 
                 |se refiere al seguimiento permanente entre las funcionalidades de la solución planteada y las necesidades de la organización y los clientes, es posible que se deban realizar correcciones para mejorar la calidad de la solución desplegada, así como el reentrenamiento de los implicados en el uso de estas soluciones al presentarse casos particulares.
@@ -101,7 +101,7 @@
     p.mb-5(data-aos="fade-right") En la siguiente infografía se observa cada una de las etapas y los respectivos elementos que intervienen en el ciclo de vida de un proyecto.
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-8.col-sm-8
         .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
           h5 Figura 1.
           br

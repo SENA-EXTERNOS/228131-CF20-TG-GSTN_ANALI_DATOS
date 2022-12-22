@@ -10,7 +10,7 @@
     p.mb-5(data-aos="fade-down") Todas las cosas, productos, servicios y procesos pueden hacerse siempre mejor; llegar a un nivel de calidad alto es una de las metas de los proyectos, teniendo en cuenta obviamente los alcances y relación costo/beneficio.
 
     .row.justify-content-center.mb-5
-      .col-lg-6(data-aos="zoom-in")
+      .col-lg-6.col-sm-10(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido
           h5 Figura 11.
           br
