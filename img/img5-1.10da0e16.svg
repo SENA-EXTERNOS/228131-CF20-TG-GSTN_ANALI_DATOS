@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="404.72" viewBox="0 0 610 404.72">
+  <g id="Grupo_143207" data-name="Grupo 143207" transform="translate(-495 -528)">
+    <g id="Grupo_143157" data-name="Grupo 143157" transform="translate(0 3)">
+      <g id="Grupo_142204" data-name="Grupo 142204" transform="translate(548 561.282)">
+        <rect id="Rectángulo_41430" data-name="Rectángulo 41430" width="180.012" height="59.298" rx="14" transform="translate(376.988)" fill="#feca2e" opacity="0.2"/>
+        <rect id="Rectángulo_41431" data-name="Rectángulo 41431" width="180.012" height="59.298" rx="14" transform="translate(-53 274.164)" fill="#4dd0e1" opacity="0.2"/>
+      </g>
+      <g id="Grupo_142205" data-name="Grupo 142205" transform="translate(599.125 526.5)">
+        <path id="Trazado_196593" data-name="Trazado 196593" d="M50.656,186.409A138.551,138.551,0,0,1,189.175,50.63V34.855A154.324,154.324,0,0,0,34.881,186.409Z" transform="translate(12.015 12.005)" fill="#bddcf6" stroke="#fff" stroke-width="3"/>
+        <path id="Trazado_196595" data-name="Trazado 196595" d="M286.52,186.409h15.775A154.324,154.324,0,0,0,148,34.855V50.63A138.551,138.551,0,0,1,286.52,186.409" transform="translate(53.19 12.005)" fill="#4dd0e1" stroke="#fff" stroke-width="3"/>
+        <path id="Trazado_196597" data-name="Trazado 196597" d="M50.63,148.741c0-.928.016-1.852.035-2.776H34.89c-.016.925-.035,1.848-.035,2.776a154.33,154.33,0,0,0,154.33,154.33V287.3A138.555,138.555,0,0,1,50.63,148.741" transform="translate(12.005 52.449)" fill="#636363" stroke="#fff" stroke-width="3"/>
+        <path id="Trazado_196600" data-name="Trazado 196600" d="M286.555,148.741A138.555,138.555,0,0,1,148,287.3V303.07a154.33,154.33,0,0,0,154.33-154.33c0-.928-.019-1.851-.035-2.776H286.52C286.539,146.888,286.555,147.813,286.555,148.741Z" transform="translate(53.19 52.449)" fill="#feca2e" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Trazado_196601" data-name="Trazado 196601" d="M207.365,47.36A46.86,46.86,0,1,1,160.505.5a46.86,46.86,0,0,1,46.86,46.86" transform="translate(40.231 -0.5)" fill="#4dd0e1" stroke="#fff" stroke-width="3"/>
+        <path id="Trazado_196602" data-name="Trazado 196602" d="M207.365,273.65a46.86,46.86,0,1,1-46.86-46.86,46.86,46.86,0,0,1,46.86,46.86" transform="translate(40.231 81.21)" fill="#636363" stroke="#fff" stroke-width="3"/>
+        <path id="Trazado_196603" data-name="Trazado 196603" d="M47.36,113.645A46.86,46.86,0,1,1,.5,160.505a46.86,46.86,0,0,1,46.86-46.86" transform="translate(-0.625 40.355)" fill="#bddcf6" stroke="#fff" stroke-width="3"/>
+        <path id="Trazado_196604" data-name="Trazado 196604" d="M273.65,113.645a46.86,46.86,0,1,1-46.86,46.86,46.86,46.86,0,0,1,46.86-46.86" transform="translate(82.085 40.355)" fill="#feca2e" stroke="#fff" stroke-width="3"/>
+        <path id="Trazado_196605" data-name="Trazado 196605" d="M237.671,166.889a70.783,70.783,0,1,1-70.782-70.782,70.782,70.782,0,0,1,70.782,70.782" transform="translate(34.768 33.893)" fill="#0f2771" stroke="#fff" stroke-width="3"/>
+        <text id="Planear" transform="translate(169.376 52.5)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Planear</tspan></text>
+        <text id="Actuar" transform="translate(19.375 207.5)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Actuar</tspan></text>
+        <text id="Hacer" transform="translate(331.375 207.5)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Hacer</tspan></text>
+        <text id="Mejora_continua" data-name="Mejora
+continua" transform="translate(201.375 192.5)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-31.475" y="0">Mejora</tspan><tspan x="-39.219" y="31">continua</tspan></text>
+        <text id="Verificar" transform="translate(166.375 361.5)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Verificar</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

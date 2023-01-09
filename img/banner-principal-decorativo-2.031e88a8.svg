@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.761" height="31.905" viewBox="0 0 32.761 31.905">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_197131" data-name="Trazado 197131" d="M93.9,83.154l8.141,18.245s19.777-3.212,24.62-12.489L111.725,69.494S104.079,79.959,93.9,83.154" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-2.264" y1="8.504" x2="-2.239" y2="8.504" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff55c9"/>
+      <stop offset="0.011" stop-color="#ff55c9"/>
+      <stop offset="1" stop-color="#ff64cc"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_143170" data-name="Grupo 143170" transform="translate(-1008.903 -192.494)">
+    <g id="Grupo_142947" data-name="Grupo 142947" transform="translate(915 123)">
+      <g id="Grupo_142946" data-name="Grupo 142946" clip-path="url(#clip-path)">
+        <rect id="Rectángulo_44840" data-name="Rectángulo 44840" width="39.901" height="39.295" transform="translate(85.929 71.63) rotate(-14.996)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

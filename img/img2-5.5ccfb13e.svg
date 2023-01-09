@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="383" viewBox="0 0 1030 383">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_44913" data-name="Rectángulo 44913" width="820" height="48" transform="translate(105 35.506)" fill="#feca2e"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_143172" data-name="Grupo 143172" transform="translate(-285 -3163)">
+    <g id="Grupo_143096" data-name="Grupo 143096" transform="translate(15 162)">
+      <g id="Grupo_143093" data-name="Grupo 143093" transform="translate(-270)">
+        <ellipse id="Elipse_5158" data-name="Elipse 5158" cx="76" cy="74" rx="76" ry="74" transform="translate(564 3001)" fill="#4dd0e1" opacity="0.18"/>
+        <ellipse id="Elipse_5159" data-name="Elipse 5159" cx="55.5" cy="55" rx="55.5" ry="55" transform="translate(567 3274)" fill="#4dd0e1" opacity="0.18"/>
+      </g>
+      <g id="Grupo_143094" data-name="Grupo 143094" transform="translate(561)">
+        <ellipse id="Elipse_5158-2" data-name="Elipse 5158" cx="76" cy="74" rx="76" ry="74" transform="translate(564 3001)" fill="#4dd0e1" opacity="0.18"/>
+        <ellipse id="Elipse_5159-2" data-name="Elipse 5159" cx="55.5" cy="55" rx="55.5" ry="55" transform="translate(567 3274)" fill="#4dd0e1" opacity="0.18"/>
+      </g>
+    </g>
+    <g id="Grupo_143095" data-name="Grupo 143095" transform="translate(0 162)">
+      <g id="Grupo_143081" data-name="Grupo 143081" transform="translate(285 3001)" opacity="0.15">
+        <g id="Grupo_143080" data-name="Grupo 143080" transform="translate(105 35.506)">
+          <g id="Grupo_143085" data-name="Grupo 143085">
+            <rect id="Rectángulo_44910" data-name="Rectángulo 44910" width="820" height="310.84" fill="#feca2e"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_143083" data-name="Grupo 143083" transform="translate(285 3001.494)" opacity="0.35">
+        <g id="Grupo_143082" data-name="Grupo 143082" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_44912" data-name="Rectángulo 44912" width="820" height="48" transform="translate(105 35.506)" fill="#feca2e"/>
+        </g>
+      </g>
+      <line id="Línea_467" data-name="Línea 467" x2="820" transform="translate(390 3036.506)" fill="none" stroke="#0f2771" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_468" data-name="Línea 468" x2="820" transform="translate(390 3348.51)" fill="none" stroke="#0f2771" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_469" data-name="Línea 469" x2="820" transform="translate(390 3180.506)" fill="none" stroke="#0f2771" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_470" data-name="Línea 470" y1="168" transform="translate(970.354 3180.506)" fill="none" stroke="#0f2771" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_471" data-name="Línea 471" x2="820" transform="translate(390 3084.506)" fill="none" stroke="#0f2771" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_472" data-name="Línea 472" x2="239.646" transform="translate(970.354 3300.51)" fill="none" stroke="#0f2771" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_473" data-name="Línea 473" x2="239.646" transform="translate(970.354 3240.51)" fill="none" stroke="#0f2771" stroke-miterlimit="10" stroke-width="1"/>
+      <text id="HISTORIA_DEL_USUARIO" data-name="HISTORIA DEL USUARIO" transform="translate(414 3050)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">HISTORIA DEL USUARIO</tspan></text>
+      <text id="Cómo:_Quiero:_Para_poder:" data-name="Cómo:
+Quiero:
+Para poder:" transform="translate(444.649 3099)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Cómo:</tspan><tspan x="0" y="41">Quiero:</tspan><tspan x="0" y="65">Para poder:</tspan></text>
+      <text id="Validación:_-_Ver_cantidad_inventario_de_cada_producto_-_Ver_inventario_general_y_filtro_individual_por_producto_y_tienda_-_Ver_comportamiento_de_ventas_del_producto_y_en_general_mes_semana_día_de_la_semana_" data-name="Validación:
+- Ver cantidad inventario de cada producto
+- Ver inventario general y filtro individual por producto y tienda
+- Ver comportamiento de ventas del producto y en general (mes, semana, día de la semana)" transform="translate(413.993 3208.573)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Validación:</tspan><tspan x="0" y="41">- Ver cantidad inventario de cada producto</tspan><tspan x="0" y="65">- Ver inventario general y filtro individual por producto y tienda</tspan><tspan x="0" y="89">- Ver comportamiento de ventas del producto y en general (mes, semana, </tspan><tspan x="0" y="113">día de la semana)</tspan></text>
+      <text id="Director_de_compras_Poder_consultar_inventario_por_producto_e_historial_de_ventas_Realizar_pedidos_para_el_periodo_siguiente" data-name="Director de compras
+Poder consultar inventario por producto e historial de ventas
+Realizar pedidos para el periodo siguiente" transform="translate(581.993 3099)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Director de compras</tspan><tspan x="0" y="41">Poder consultar inventario por producto e historial de ventas</tspan><tspan x="0" y="65">Realizar pedidos para el periodo siguiente</tspan></text>
+      <text id="Valor:_200" data-name="Valor:                          200" transform="translate(986.426 3201.351)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17" xml:space="preserve">Valor:                          200</tspan></text>
+      <text id="Prioridad:_1" data-name="Prioridad:                        1" transform="translate(986.426 3261.351)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17" xml:space="preserve">Prioridad:                        1</tspan></text>
+      <text id="Estimación:_16h" data-name="Estimación:               16h" transform="translate(986.426 3312.034)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17" xml:space="preserve">Estimación:               16h</tspan></text>
+      <text id="_32_-_Catálogo_de_productos" data-name="32 - Catálogo de productos" transform="translate(915 3050)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-221.027" y="19">32 - Catálogo de productos</tspan></text>
+      <g id="Grupo_143092" data-name="Grupo 143092" transform="translate(-54)">
+        <path id="Trazado_197217" data-name="Trazado 197217" d="M112.138,48H60.9a6.88,6.88,0,0,1-6.88-6.881V6.881A6.88,6.88,0,0,1,60.9,0h51.239a6.881,6.881,0,0,1,6.881,6.881V41.119A6.881,6.881,0,0,1,112.138,48" transform="translate(284.981 3001)" fill="#727997"/>
+        <text id="ID" transform="translate(371 3031)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-8.35" y="0">ID</tspan></text>
+      </g>
+      <g id="Grupo_143091" data-name="Grupo 143091">
+        <path id="Trazado_197218" data-name="Trazado 197218" d="M133,155.686H10a10,10,0,0,1-10-10v-28a10,10,0,0,1,10-10H133a10,10,0,0,1,10,10v28a10,10,0,0,1-10,10" transform="translate(285 3001.314)" fill="#727997"/>
+        <text id="Descripción" transform="translate(356 3139)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-47.294" y="0">Descripción</tspan></text>
+      </g>
+      <g id="Grupo_143090" data-name="Grupo 143090" transform="translate(0 27)">
+        <path id="Trazado_197219" data-name="Trazado 197219" d="M223,356.274H10a10,10,0,0,1-10-10v-28a10,10,0,0,1,10-10H223a10,10,0,0,1,10,10v28a10,10,0,0,1-10,10" transform="translate(285 3000.726)" fill="#727997"/>
+        <text id="Criterios_de_aceptación" data-name="Criterios de aceptación" transform="translate(401 3339)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-92.351" y="0">Criterios de aceptación</tspan></text>
+      </g>
+      <g id="Grupo_143086" data-name="Grupo 143086" transform="translate(0 42)">
+        <path id="Trazado_197220" data-name="Trazado 197220" d="M1020,190.03H891a10,10,0,0,1-10-10v-28a10,10,0,0,1,10-10h129a10,10,0,0,1,10,10v28a10,10,0,0,1-10,10" transform="translate(285 3000.97)" fill="#727997"/>
+        <text id="Ponderación" transform="translate(1241 3173)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-50.097" y="0" letter-spacing="-0.006em">P</tspan><tspan y="0">onde</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">ación</tspan></text>
+      </g>
+      <g id="Grupo_143088" data-name="Grupo 143088">
+        <path id="Trazado_197221" data-name="Trazado 197221" d="M1020,294.591H919a10,10,0,0,1-10-10v-28a10,10,0,0,1,10-10h101a10,10,0,0,1,10,10v28a10,10,0,0,1-10,10" transform="translate(285 3001.409)" fill="#727997"/>
+        <text id="Prioridad" transform="translate(1254 3278)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-36.316" y="0">Prioridad</tspan></text>
+      </g>
+      <g id="Grupo_143089" data-name="Grupo 143089">
+        <path id="Trazado_197222" data-name="Trazado 197222" d="M1020,356.274H902a10,10,0,0,1-10-10v-28a10,10,0,0,1,10-10h118a10,10,0,0,1,10,10v28a10,10,0,0,1-10,10" transform="translate(285 3000.726)" fill="#727997"/>
+        <text id="Estimación" transform="translate(1247 3339)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-44.657" y="0">Estimación</tspan></text>
+      </g>
+      <g id="Grupo_143087" data-name="Grupo 143087" transform="translate(49)">
+        <path id="Trazado_197223" data-name="Trazado 197223" d="M970.846,48h-74a10,10,0,0,1-10-10V10a10,10,0,0,1,10-10h74a10,10,0,0,1,10,10V38a10,10,0,0,1-10,10" transform="translate(285.154 3001)" fill="#727997"/>
+        <text id="Título" transform="translate(1219 3031)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-22.812" y="0">Título</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
