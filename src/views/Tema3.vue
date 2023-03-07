@@ -20,7 +20,7 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido(data-aos='fade-right')
+    .titulo-tercero(data-aos='fade-right')
       h2 Jira Software
     
     p Es una herramienta para la gestión de proyectos, presenta versatilidad para usarla en diversas metodologías de desarrollo; lleva trazabilidad y seguimiento de errores; ayuda a la gestión de requisitos, desarrollo y entregas.
@@ -85,7 +85,7 @@
           .col-md-6
             figure
               img(src="@/assets/curso/temas/tema3/img3-6.svg" alt="Tablero principal de Jira").mb-2
-              figcaption Nota. Adaptado de (atlassian.net, 2022)
+              figcaption Nota. Adaptado de atlassian.net (2022).
         .row
           .col-md-6.mb-4.mb-md-0
             p Jira es una herramienta que se puede personalizar configurando diferentes tipos de incidencias, como tareas, errores, historias. Adicionalmente, existe el concepto de objetos épicos, que contienen varias incidencias.
@@ -108,7 +108,7 @@
 
 
               
-    p(data-aos="fade-down").mb-5 PPara una mejor comprensión del uso de herramientas para la gestión de proyectos de #[i software], se invita a ver el siguiente video, donde se explica un ejemplo de implementación de la metodología Scrum en la herramienta Jira:
+    p(data-aos="fade-down").mb-5 Para una mejor comprensión del uso de herramientas para la gestión de proyectos de #[i software], se invita a ver el siguiente video, donde se explica un ejemplo de implementación de la metodología Scrum en la herramienta Jira:
 
     figure.mb-5(data-aos="zoom-in")
       .video

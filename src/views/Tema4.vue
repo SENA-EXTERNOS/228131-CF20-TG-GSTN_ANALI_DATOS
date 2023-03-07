@@ -152,7 +152,7 @@
       .col-lg-7.col-sm-10.recuadroid(data-aos="fade-left")
         h4 Aplicar el método de cascada
         p Los directores de proyecto suelen recurrir al método de cascada cuando: hay una visión clara de lo que debería ser el producto final, si los requisitos o necesidades están claramente identificadas y es relativamente fácil y claro, documentarlas; o si se encuentran con requerimientos ambiguos, que deben resolverse y aclararse de manera coherente.
-        b También es pertinente emplearla cuando no se tiene posibilidad de cambiar el alcance del proyecto una vez que ha comenzado
+        b También es pertinente emplearlo cuando no se tiene posibilidad de cambiar el alcance del proyecto, una vez que ha comenzado.
 
     .row.justify-content-center
       .col-lg-10(data-aos="zoom-in")

@@ -39,7 +39,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10.col-sm-10
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema2/img2-3.png', alt='Paradigmas de metodologías de desarrollo')
+          img(src='@/assets/curso/temas/tema2/img2-3.svg', alt='Paradigmas de metodologías de desarrollo')
 
     Separador
 

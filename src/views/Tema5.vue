@@ -47,9 +47,9 @@
             figure
               img(src='@/assets/curso/temas/tema5/img5-3.svg', alt='Caja con idea')
         
-        .row(titulo="<Insigth")
+        .row(titulo="<i>Insight</i>")
           .col-md-6.mb-4.mb-md-0
-            p Un insight general se refiere a que la tecnología no es infalible y siempre está expuesta a riesgos y fallas. Incluso por ley de Murphy “si algo puede salir mal, saldrá mal”, indicando que es probable que, en medio de la producción de la solución desplegada, se detecten errores, ya sea en los resultados de los cálculos o fallas de carga o, incluso, algún tipo de bug o bloqueo de la aplicación, entre otras fallas posibles.
+            p Un #[i insight] general se refiere a que la tecnología no es infalible y siempre está expuesta a riesgos y fallas. Incluso por ley de Murphy “si algo puede salir mal, saldrá mal”, indicando que es probable que, en medio de la producción de la solución desplegada, se detecten errores, ya sea en los resultados de los cálculos o fallas de carga o, incluso, algún tipo de bug o bloqueo de la aplicación, entre otras fallas posibles.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema5/img5-4.svg', alt='Persona trabajando en computador')

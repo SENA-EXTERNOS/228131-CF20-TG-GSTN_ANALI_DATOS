@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="Entrega de la solución informática")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Entrega de la solución informática")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
