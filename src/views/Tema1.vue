@@ -36,7 +36,7 @@
             ol
               li.mb-3 
                 i.fas.fa-circle.fa-xs.cac.me-3
-                |Desarrollo análisis y desarrollo de soluciones analítica.
+                |Desarrollo análisis y desarrollo de soluciones analíticas.
               li.mb-3
                 i.fas.fa-circle.fa-xs.cac.me-3
                 |Aceptación y entregas parciales de avances del proyecto.
@@ -62,72 +62,62 @@
 
     .row.justify-content-center.mb-5
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.cts(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.abajo.cts(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Evaluación y vigilancia
-              p Se refiere al seguimiento permanente entre las funcionalidades de la solución planteada y las necesidades de la organización y los clientes.
+            .tarjeta-slide__contenido.p-4
+              h4.text-center.mt-3 Evaluación y vigilancia
+              p.text-center Se refiere al seguimiento permanente entre las funcionalidades de la solución planteada y las necesidades de la organización y los clientes.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-2.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.abajo.cts(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Calidad de la solución
-              p Es posible que se deban realizar correcciones para mejorar la calidad de la solución desplegada, así como el reentrenamiento de los implicados en el uso de estas soluciones al presentarse casos particulares.
+            .tarjeta-slide__contenido.p-4
+              h4.text-center.mt-3 Calidad de la solución
+              p.text-center Es posible que se tengan que realizar correcciones para mejorar la calidad de la solución desplegada, así como el reentrenamiento de los implicados, en el uso de estas soluciones al presentarse casos particulares.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-3.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.derecha.cts(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.abajo.cts(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Revisiones constantes
-              p Es importante, que los dueños de las soluciones tecnológicas, ya sean opciones comerciales 
-                em Saas 
-                |si es 
-                em on-premise
-                |, de mantener constante revisión sobre los cambios de las organizaciones, cambios de mercado, tendencias en las arquitecturas, normas, tecnologías, etc.
+            .tarjeta-slide__contenido.p-4
+              h4.text-center.mt-3 Revisiones constantes
+              p.text-center Es importante, que los dueños de las soluciones tecnológicas, aunque estas sean opciones comerciales Saas, que en sí mismas, mantienen una constante revisión sobre los cambios de las organizaciones, cambios de mercado, tendencias en las arquitecturas, normas, tecnologías, etc. 
+
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-4.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.izquierda.cts(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.abajo.cts(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h4 Adaptación al cambio
-              p Los proyectos deben estar diseñados para que se adapten con relativa facilidad a los cambios.
+            .tarjeta-slide__contenido.p-4
+              h4.text-center.mt-3 Adaptación al cambio
+              p.text-center Los proyectos deben estar diseñados para que se adapten con relativa facilidad a los cambios.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-5.png')})`}")
 
     p.mb-5(data-aos="fade-right") En la siguiente infografía se observa cada una de las etapas y los respectivos elementos que intervienen en el ciclo de vida de un proyecto.
 
     .row.justify-content-center.mb-5
       .col-lg-8.col-sm-8
-        .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
-          h5 Figura 1.
-          br
-          em Ciclo de vida de proyectos tecnológicos
 
         ImagenInfografica.color-acento-botones.mb-5(data-aos="zoom-in")
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/img1-6.svg', alt='Ciclo de vida de proyectos')
-          .tarjeta.color-acento-botones.p-3(x="-1%" y="36%" numero="1")
-            p.mb-1 Necesidades de la organización
-            p.mb-1 Definición de requisitos
-            p.mb-1 Metodología
-            p Propuesta y criterios de aceptación
-          .tarjeta.color-acento-botones.p-3(x="49%" y="98%" numero="2")
-            p.mb-1 Análisis y desarrollo
-            p Aceptación de entregas parciales
-          .tarjeta.color-acento-botones.p-3(x="78%" y="-2%" numero="3")
-            p.mb-1 Cierre del proyecto
-            p.mb-1 Protección del producto (registros y derechos)
-            p Evaluación y vigilancia
+          .tarjeta.color-secundario.p-3(x="-1%" y="36%" numero="1")
+            p.mb-1 ● Necesidades de la organización.
+            p.mb-1 ● Definición de requisitos.
+            p.mb-1 ● Metodología.
+            p ● Propuesta y criterios de aceptación.
+          .tarjeta.color-secundario.p-3(x="49%" y="98%" numero="2")
+            p.mb-1 ● Análisis y desarrollo.
+            p ● Aceptación de entregas parciales.
+          .tarjeta.color-secundario.p-3(x="78%" y="-2%" numero="3")
+            p.mb-1 ● Cierre del proyecto.
+            p.mb-1 ● Protección del producto (registros y derechos).
+            p ● Evaluación y vigilancia.
 
-    .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="flip-up")
-        .cajon.color-secundario.p-4(style="background-color: #E8E8E8")
-          p.mb-0 A continuación, se abordan los criterios de aceptación de la solución. Para hablar de este concepto es necesario recordar un poco el concepto de metodologías ágiles para el desarrollo de proyectos.
+
 
 </template>
 

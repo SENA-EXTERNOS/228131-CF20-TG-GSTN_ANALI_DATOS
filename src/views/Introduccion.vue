@@ -14,9 +14,9 @@
         figure
           img(src='@/assets/curso/temas/intro/intro.svg', alt='Persona trabajando en portátil con audífonos')
       .col-lg-8.recuadroid(data-aos="fade-left")
-        p Estimado aprendiz, reciba una cordial bienvenida a este recurso de enseñanza, orientado a la entrega de la solución informática. A lo largo de este desarrollo, se abordan temáticas como el ciclo de vida del proyecto, se estudian algunas herramientas para la gestión de proyectos y se finaliza con algunos consejos para la presentación del proyecto. Al terminar, estará en capacidad, entre otros aspectos, de entregar la solución informática, de acuerdo con el criterio técnico y los marcos de referencia.
+        p Estimado aprendiz, bienvenido a este recurso de enseñanza orientado a la entrega de la solución informática. A lo largo de este desarrollo, se abordan temáticas como el ciclo de vida del proyecto, se estudian algunas herramientas para la gestión de proyectos y se finaliza con algunos consejos para la presentación del proyecto. Al terminar, estará en capacidad, entre otros aspectos, de entregar la solución informática, de acuerdo con el criterio técnico y los marcos de referencia. 
         p.mb-1
-          b Antes de empezar, se sugiere revisar el siguiente video para ampliar e identificar el contexto de aprendizaje. ¡Muchos éxitos, que tenga un aprendizaje significativo y memorable!
+          b En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     figure(data-aos="zoom-in")
       .video
