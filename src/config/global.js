@@ -129,21 +129,21 @@ export default {
     {
       tema: 'Herramientas para la gestión de proyectos y equipos',
       referencia:
-        '(Canal Geek QA. (2021). <i>Cómo usar JIRA desde 0 en equipos SCRUM</i> [video]. YouTube.',
+        'Canal Geek QA. (2021). <i>Cómo usar JIRA desde 0 en equipos SCRUM</i> [video]. YouTube.',
       tipo: 'Video tutorial',
       link: 'https://www.youtube.com/watch?v=ViwOKhYx4kg',
     },
     {
       tema: 'Herramientas para la gestión de proyectos y equipos',
       referencia:
-        '(Canal EducaTIC. ( 2020). <i>Tutorial TRELLO actualizado 2022</i> [video]. YouTube.',
+        'Canal EducaTIC. ( 2020). <i>Tutorial TRELLO actualizado 2022</i> [video]. YouTube.',
       tipo: 'Video tutorial',
       link: 'https://youtu.be/sZd7uUPigk8',
     },
     {
       tema: 'Mejoramiento continuo',
       referencia:
-        '(LaInternational Business Machines Corporation.(2021). <i>Acuerdos de nivel de servicio (SLA) IBM.</i>',
+        'LaInternational Business Machines Corporation.(2021). <i>Acuerdos de nivel de servicio (SLA) IBM.</i>',
       tipo: 'Documento web',
       link:
         'https://www.ibm.com/docs/es/mfsp/7.6.1?topic=records-service-level-agreements-slas',
@@ -226,13 +226,13 @@ export default {
     },
     {
       referencia:
-        'Lasa, C., Álvarez, A. & de las Heras del Dedo. (2017). Métodos ágiles: Scrum, Kanban, Lean.',
+        'Lasa, C., Álvarez, A. & de las Heras del Dedo. (2017).<i> Métodos ágiles: Scrum, Kanban, Lean.</i>',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122933',
     },
     {
       referencia:
-        'MarketerosLATAM. (2021). Ciclo de Deming: etapas e importancia. Marketeroslatam.com',
+        'MarketerosLATAM. (2021). <i>Ciclo de Deming: etapas e importancia</i>. Marketeroslatam.com',
       link:
         'https://www.marketeroslatam.com/ciclo-de-deming-etapas-e-importancia/',
     },

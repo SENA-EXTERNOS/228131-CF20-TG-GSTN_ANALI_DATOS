@@ -51,8 +51,8 @@
       .col-lg-8(data-aos="zoom-in")
          LineaTiempoD.color-primario
           .row(numero="1" titulo="Análisis de requerimientos") 
-            p La naturaleza lineal de la metodología Waterfall, otorga un significado adicional a esta primera etapa de su ciclo de vida. Todos los requisitos y características del producto de software final, deben reunirse en esta fase.
-            p Una vez que se completa la etapa de análisis de los requisitos, el equipo de desarrollo de software o solución BI, debe tener toda la información necesaria y precisa, para completar el proyecto sin participación adicional, así sean otros, los profesionales que lo desarrollen.
+            p La naturaleza lineal de la metodología Waterfall, otorga un significado adicional a esta primera etapa de su ciclo de vida. Todos los requisitos y características del producto de <em>software</em> final, deben reunirse en esta fase.
+            p Una vez que se completa la etapa de análisis de los requisitos, el equipo de desarrollo de <em>software</em> o solución BI, debe tener toda la información necesaria y precisa, para completar el proyecto sin participación adicional, así sean otros, los profesionales que lo desarrollen.
 
 
           .row(numero="2" titulo="Diseño") 

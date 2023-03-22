@@ -81,19 +81,19 @@
                 i.fas.fa-circle.fa-xs.cst.me-3
                 | Se debe asegurar el entendimiento por parte de todo el equipo, para que exista unanimidad en la consideración de si es o no, aceptada y finalizada.
           .tarjeta.color-primario.p-4(titulo="Tipos de criterio")
-            ol
+            ul.lista-ul
               li.mb-3 
                 i.fas.fa-circle.fa-xs.cst.me-3
-                | #[b Condiciones:] cómo se reacciona frente a las opciones de comportamiento y ante situaciones que no se cumplen.
+                p.mb-0 #[b Condiciones:] cómo se reacciona frente a las opciones de comportamiento y ante situaciones que no se cumplen.
               li.mb-3 
                 i.fas.fa-circle.fa-xs.cst.me-3
-                | #[b Funcionales:] lo que se espera ver o que se realice.
+                p.mb-0 #[b Funcionales:] lo que se espera ver o que se realice.
               li.mb-3 
                 i.fas.fa-circle.fa-xs.cst.me-3
-                | #[b No funcional:] accesibilidad, seguridad, performance, soporte, etc.
+                p.mb-0 #[b No funcional:] accesibilidad, seguridad, <em>performance</em>, soporte, etc.
               li.mb-3 
                 i.fas.fa-circle.fa-xs.cst.me-3
-                | #[b Usabilidad:] facilidad de uso, eficiencia, navegabilidad, errores, experiencia de usuario.
+                p.mb-0 #[b Usabilidad:] facilidad de uso, eficiencia, navegabilidad, errores, experiencia de usuario.
 
           .tarjeta.color-primario.p-4(titulo="Formato o plantillas")
             p Aunque el formato o las plantillas son variados, esto depende de los líderes o de la compañía, porque se deben reunir unos elementos mínimos:

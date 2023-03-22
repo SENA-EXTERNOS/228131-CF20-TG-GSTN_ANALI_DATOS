@@ -149,7 +149,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4
-              h4 Capacitación como pre-requisito
+              h4 Capacitación como prerrequisito
               p El proceso de capacitación, por lo general, se desarrolla como prerrequisito a la entrega total del proyecto, se refiere a la transferencia de conocimientos y manejo que se da durante la implementación del proyecto. Se realiza con la participación de los integrantes del equipo de implementación y, si es el caso, de pruebas. Se entiende que los implicados en el sistema pueden ser los usuarios del sistema, los consultores externos y quienes se vean afectados al proceso de implementación.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/img6-9.png')})`}")
       

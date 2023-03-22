@@ -57,7 +57,7 @@
           .col-md-6
             figure
               img(src="@/assets/curso/temas/tema3/img3-4.svg" alt="Herramientas de productividad").mb-2
-              figcaption Nota. Proyectos & instancias en Jira. tomada de EnevaSys (2020)
+              figcaption Nota. EnevaSys (2020).
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Tipos de indicencias
@@ -167,7 +167,7 @@
         figure
           img(src="@/assets/curso/temas/tema3/img3-16.svg" alt="Persona con tablet")
       .col-lg-7(data-aos="fade-left")
-        p Trello ayuda a los equipos a sacar el trabajo adelante. Para conocer más sobre la herramienta de gestión de proyectos Trello, se recomienda visitar su página web oficial..
+        p Trello ayuda a los equipos a sacar el trabajo adelante. Para conocer más sobre la herramienta de gestión de proyectos Trello, se recomienda visitar su página web oficial.
         a.anexo.mb-4.mb-lg-0(href="https://trello.com/es" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
