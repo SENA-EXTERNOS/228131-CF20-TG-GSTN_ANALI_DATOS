@@ -141,7 +141,7 @@
     .titulo-tercero(data-aos='fade-right')
       h2 Capacitación
 
-    p.mb-5(data-aos="fade-left") Un elemento protagonista para garantizar la usabilidad y utilidad del recurso desarrollado, ya sea un software transaccional, ERP o BI, es el proceso de capacitación y transferencia de conocimientos operativos, según el rol y las responsabilidades.
+    p.mb-5(data-aos="fade-left") Un elemento protagonista para garantizar la usabilidad y utilidad del recurso desarrollado, ya sea un <em>software</em> transaccional, ERP o BI, es el proceso de capacitación y transferencia de conocimientos operativos, según el rol y las responsabilidades.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-4.col-sm-12
@@ -174,7 +174,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="flip-up")
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 Cada proyecto en particular, merece un estudio preliminar en todos sus aspectos, no solamente el de la capacitación. Este estudio previo se hace necesario, para asegurar una implementación exitosa, y debe ser desarrollado por personal independiente del proveedor del software, que puede ser interno si la organización lo posee o contratado de forma externa. (Escales, 2013)
+          p.mb-0 Cada proyecto en particular, merece un estudio preliminar en todos sus aspectos, no solamente el de la capacitación. Este estudio previo se hace necesario, para asegurar una implementación exitosa, y debe ser desarrollado por personal independiente del proveedor del <em>software</em>, que puede ser interno si la organización lo posee o contratado de forma externa. (Escales, 2013)
 
     h3.mb-5(data-aos="fade-right") Factores que afectan el proceso de capacitación
 
