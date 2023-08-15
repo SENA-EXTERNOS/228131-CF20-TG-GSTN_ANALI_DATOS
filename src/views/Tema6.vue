@@ -119,7 +119,7 @@
             ol
               li.mb-3 
                 i.fas.fa-circle.fa-xs.cst.me-3
-                | Dejar espacios para preguntas y solución de dudas. Es necesario moderar esta participación y, en caso que sean muchas, gestionar por otro medio para dar respuesta, por ejemplo, a través de correo u otro medio.
+                | Dejar espacios para preguntas y solución de dudas. Es necesario moderar esta participación y, en caso de que sean muchas, gestionar por otro medio para dar respuesta, por ejemplo, a través de correo u otro medio.
               li.mb-3 
                 i.fas.fa-circle.fa-xs.cst.me-3
                 | Dejar fuentes para ampliar la información dada, ya sea un enlace, manual, volantes, etc.
