@@ -143,7 +143,7 @@ export default {
     {
       tema: 'Mejoramiento continuo',
       referencia:
-        'LaInternational Business Machines Corporation.(2021). <i>Acuerdos de nivel de servicio (SLA) IBM.</i>',
+        'International Business Machines Corporation.(2021). <i>Acuerdos de nivel de servicio (SLA) IBM.</i>',
       tipo: 'Documento web',
       link:
         'https://www.ibm.com/docs/es/mfsp/7.6.1?topic=records-service-level-agreements-slas',
@@ -156,7 +156,7 @@ export default {
         'Entorno gráfico y técnico para la codificación e integración de código de programación del equipo de desarrollo; así mismo se produce la integración de los servicios necesarios para la solución informática.',
     },
     {
-      termino: 'BI (Business Intelligence',
+      termino: 'BI (<em>Business Intelligence</em>)',
       significado:
         'Inteligencia de Negocio. Área de la informática que busca soluciones para generar conocimiento y datos de valor para diferentes áreas del negocio.',
     },
@@ -166,7 +166,7 @@ export default {
         'Error de programación. El proceso de encontrar errores antes de que lo hagan los usuarios del programa se denomina depuración o <em>debugging</em>.',
     },
     {
-      termino: 'ERP (Enterprise Resource Planning)',
+      termino: 'ERP (<i>Enterprise Resource Planning</i>)',
       significado:
         'sistema de planificación de recursos empresariales.  Son los sistemas informáticos del nivel gerencial que integran muchos de los negocios asociados con las operaciones de la empresa.',
     },
@@ -181,7 +181,7 @@ export default {
         'en psicología se refiere a una verdad descubierta por los datos; es un descubrimiento de una realidad.',
     },
     {
-      termino: 'On premise',
+      termino: '<i>On premise</i>',
       significado:
         'Modelo de soluciones informáticas donde la empresa contiene toda la infraestructura y <em>software</em> bajo su propiedad y administración.',
     },
