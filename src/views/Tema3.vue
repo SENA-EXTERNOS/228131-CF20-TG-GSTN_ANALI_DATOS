@@ -84,7 +84,7 @@
             p El principio de funcionalidad es muy simple, básicamente hay tres columnas que indican el periodo o fase de ejecución de las incidencias; están las pendientes de ejecutar, las que están en periodo de ejecución y las entregadas. Si bien por defecto son tres columnas, podrían agregarse más, por ejemplo, en caso de proyectos tecnológicos se podría agregar una columna más que indique cuáles están en prueba y cuáles ya pasaron la prueba o lo que se necesite.
           .col-md-6
             figure
-              img(src="@/assets/curso/temas/tema3/img3-6.svg" alt="Tablero principal de Jira").mb-2
+              img(src="@/assets/curso/temas/tema3/1.png" alt="Tablero principal de Jira").mb-2
               figcaption Nota. Adaptado de atlassian.net (2022).
         .row
           .col-md-6.mb-4.mb-md-0
@@ -120,33 +120,33 @@
       h2 Trello
 
     .row.justify-content-center.mb-5
-      .col-lg-6.recuadroid3(data-aos="fade-right")
+      .col-lg-4.recuadroid3(data-aos="fade-right")
         .cajon-b.color-primario.p-3
           p.mb-0 Al igual que Jira, Trello es un programa destinado a la gestión y seguimiento de proyectos y equipos de trabajo, basado en tarjetas. Es un programa con facilidad de manejo para realizar el trabajo. Cuando se inicia la aplicación, se solicita un espacio de trabajo donde se albergan todos los proyectos a gestionar.
 
-      .col-lg-4.col-sm-10.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
+      .col-lg-6.col-sm-10.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
 
         figure
-          img(src="@/assets/curso/temas/tema3/img3-11.svg" alt="Interfaz de Trello").mb-2
+          img(src="@/assets/curso/temas/tema3/2.png" alt="Interfaz de Trello").mb-2
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
       .row(titulo="Tablero de Trello")
-        .col-md-7.mb-4.mb-md-0
+        .col-md-5.mb-4.mb-md-0
           p Trello funciona basado en tableros o tarjetas. Es una herramienta sencilla, pero con una gran capacidad para la gestión de tareas y coordinación de equipos de trabajo.
 
           p Por defecto, cuenta con las tres columnas: “por hacer”, “en proceso” y “hecho” o finalizado, pero tiene la posibilidad de agregar más columnas, según la dinámica y las necesidades.
 
-        .col-md-5.col-sm-10
+        .col-md-7.col-sm-10
           figure
-            img(src="@/assets/curso/temas/tema3/img3-12.svg" alt="Tablero de Trello").mb-2
+            img(src="@/assets/curso/temas/tema3/3.png" alt="Tablero de Trello").mb-2
       
       .row(titulo="Tarjetas Trello")
-        .col-md-7.mb-4.mb-md-0
+        .col-md-5.mb-4.mb-md-0
           p Cuando se añade una tarjeta, esta presenta diversas opciones para registrar la actividad.
           p Como se muestra en la imagen siguiente, las tarjetas tienen todas las opciones necesarias para el registro, control y avance del proyecto, así como las responsabilidades y ejecución de los miembros del equipo.
-        .col-md-5
+        .col-md-7
           figure
-            img(src="@/assets/curso/temas/tema3/img3-13.svg" alt="Tarjetas Trello").mb-2
+            img(src="@/assets/curso/temas/tema3/4.png" alt="Tarjetas Trello").mb-2
       
       .row(titulo="Otras opciones")
         .col-md-7.mb-4.mb-md-0
